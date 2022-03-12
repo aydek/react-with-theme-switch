@@ -1,0 +1,8 @@
+node_modules
+build
+coverage
+scripts
+migration
+**/*.styles.tsx
+bundle.js
+.eslintrc.js

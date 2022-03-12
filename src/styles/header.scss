@@ -1,0 +1,15 @@
+.header_body {
+    font-weight: bold;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    user-select: none;
+    .switch {
+        cursor: pointer;
+        &:hover {
+            transform: scale(1.1);
+        }
+    }
+}
